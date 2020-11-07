@@ -1,4 +1,4 @@
-package uk.co.bjdavies.db.Table;
+package uk.co.bjdavies.db_old.Table;
 
 import lombok.Getter;
 
